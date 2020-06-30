@@ -4,8 +4,10 @@ Every time when you tap on any dicee, you will get a new number on both dicee an
 
 For detailed code, see the folder lib, "lib/main.dart"
 
-## Final Result image:
+## Final Result image, random number with random color on tap:
 
-<img src='screenshot1.png' width="100">
-<img src='screenshot2.png' width="100">
-<img src='screenshot3.png' width="100">
+<p float="left">
+  <img src="screenshot1.png" width="120" />
+  <img src="screenshot2.png" width="120" /> 
+  <img src="screenshot3.png" width="120" />
+</p>
